@@ -8,4 +8,4 @@ kube-scheduler-amd64:v1.13.0
 kube-proxy-amd64:v1.13.0
 pause-amd64:3.1
 etcd-amd64:3.2.24
-coredns-amd64:1.2.6
+coredns:1.2.6
